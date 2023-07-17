@@ -10,6 +10,7 @@ This is a classic Snake Game implemented in Java using the Swing library. The ga
 - `B_WIDTH` and `B_HEIGHT`: Adjust the size of the game board.
 - `DELAY`: Control the speed of the snake.
 -We can also change the background colour.
+##Contributing
 Contributions are welcome! If you have any suggestions or find a bug, please open an issue or submit a pull request.
 ## Acknowledgments
 - This game is inspired by the classic Snake Game that originated in the 1970s.
