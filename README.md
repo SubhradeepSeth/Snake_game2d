@@ -4,7 +4,7 @@ This is a classic Snake Game implemented in Java using the Swing library. The ga
 - Simple and intuitive controls.
 -Score tracking to keep track of the player's progress.
 ## Requirements
-- Java Development Kit (JDK) 8 or higher
+- Java Development Kit (JDK) 8 or higher.
 ## Customization
 -Here are some options you can customize:
 - `B_WIDTH` and `B_HEIGHT`: Adjust the size of the game board.
