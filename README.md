@@ -11,7 +11,7 @@ This is a classic Snake Game implemented in Java using the Swing library. The ga
 - `DELAY`: Control the speed of the snake.
 -We can also change the background colour.
 ##Contributing
-Contributions are welcome! If you have any suggestions or find a bug, please open an issue or submit a pull request.
+-Contributions are welcome! If you have any suggestions or find a bug, please open an issue or submit a pull request.
 ## Acknowledgments
 - This game is inspired by the classic Snake Game that originated in the 1970s.
 - Thanks to the Swing library for providing an easy-to-use GUI framework for Java.
